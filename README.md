@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cengizhanshn
-- 👀 I’m interested in ... developer,software development
+- 👀 I’m interested in ... developer,software development,pcb design
 - 🌱 I’m currently learning ... pcb design,software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... cengizhanshn0@gmail.com
